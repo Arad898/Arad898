@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Aradhya 👋</h1>
+<h3 align="center">A Passionate Frontend Developer | System Builder | Future-Proof Creator</h3>
 
-<!--
-**Arad898/Arad898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- 🚀 Currently mastering **Frontend Development** through a deep, system-based 30-day challenge.
+- 🧩 I build **scalable, reusable, and AI-proof UI systems** — not just websites.
+- 🌐 Focused on **HTML**, **CSS**, **JavaScript**, **TailwindCSS**, **React.js**, **Next.js**, and more.
+- 💡 I value design systems, performance, accessibility, and clean code principles.
+- 🎯 On a mission to be in the **top 1% frontend developers** by age 15.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Tech Stack
+```js
+Languages      : HTML, CSS, JavaScript (ES6+)
+Frameworks     : React.js, Next.js
+Styling        : TailwindCSS, SCSS, BEM
+Tools & IDEs   : VS Code, GitHub, Figma
+Version Control: Git & GitHub
